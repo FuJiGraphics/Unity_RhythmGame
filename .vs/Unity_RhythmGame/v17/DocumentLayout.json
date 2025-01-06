@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\Unity_RhythmGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\dev\\unity_rhythmgame\\assets\\scripts\\effectscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\effectscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\notespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\notespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\chartloadder\\songfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chartloadder\\songfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\chartloadder\\ichartobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chartloadder\\ichartobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\chartloadder\\ichartgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chartloadder\\ichartgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|D:\\dev\\Unity_RhythmGame\\assets\\scripts\\chartloadder\\ichartmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BCAF46-AF38-1D54-741B-8937EC820106}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chartloadder\\ichartmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EffectScript.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\EffectScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EffectScript.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\EffectScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EffectScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:00:39.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChartObjects.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\IChartObjects.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChartLoadder\\IChartObjects.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\IChartObjects.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChartLoadder\\IChartObjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:31:12.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IChartGeneral.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\IChartGeneral.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChartLoadder\\IChartGeneral.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\IChartGeneral.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChartLoadder\\IChartGeneral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:31:11.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IChartMetadata.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\IChartMetadata.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChartLoadder\\IChartMetadata.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\IChartMetadata.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChartLoadder\\IChartMetadata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:31:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:51:49.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongFile.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\SongFile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChartLoadder\\SongFile.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\ChartLoadder\\SongFile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChartLoadder\\SongFile.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:37:32.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\Note.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Note.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\Note.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Note.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:02:44.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteSpawner.cs",
+              "DocumentMoniker": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\NoteSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NoteSpawner.cs",
+              "ToolTip": "D:\\dev\\Unity_RhythmGame\\Assets\\Scripts\\NoteSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NoteSpawner.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:58:24.168Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 44,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
